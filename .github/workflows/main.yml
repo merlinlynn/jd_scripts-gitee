@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: sync-
+name: sync-lxk0301/jd_scripts-gitee
 on:
   schedule:
   - cron:  "*/15 * * * *"
